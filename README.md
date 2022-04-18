@@ -21,5 +21,5 @@ To run the program follow thw following steps:
 	-pip install pandas
 	-pip install matplotlib
 	-pip install sklearn
-4)run the python file.
+4)run the python file..
 5)  ignore cudart64_110.dll error if it appears.
